@@ -1,2 +1,2 @@
-# first_repos_TEST
-This is just a trial repository - getting more comfortable with the platform
+# READ ME
+First official commmit to Github - now on to the good stuff!
